@@ -1,13 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is KhaNiwat
 ================================================================================================================================
 
-web developer front end
+web developer
 -----------------------
 
 I am a computer science student in King Mongkut's University of Technology North Bangkok.
 
-* 🌍  I'm based in bangkok thailand
-* ✉️  You can contact me at [kchaos1150@gmail.com](mailto:kchaos1150@gmail.com)
+
 
 ### Skills
 
